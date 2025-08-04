@@ -27,5 +27,4 @@ public class Program {
 		}
 		txt.close();
 	}
-	
 }

@@ -1,9 +1,9 @@
-package labs1;
+package lab3;
 
 public class Program {
 
 	public static void main(String[] args) {
-		System.out.println("Hello World!");
+		
 	}
 
 }
