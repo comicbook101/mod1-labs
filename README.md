@@ -3,10 +3,10 @@
 ## Completed labs overview:
 - [x] EG 01a-Java Basics getting started
 - [x] EG 01b-Java Basics - Vars and Selection
-- [] EG 01c-Java Basics - Methods
-- [] EG 01d-Java Basics - Arrays and Loops
-- [] EG 02-Object Oriented programming
-- [] EG 03a-Static fields and methods
+- [x] EG 01c-Java Basics - Methods
+- [x] EG 01d-Java Basics - Arrays and Loops
+- [x] EG 02-Object Oriented programming
+- [x] EG 03a-Static fields and methods
 - [] EG 03b-More on statics
 - [] EG 04-enums and Strings
 - [] EG 05-Collections and Generics
