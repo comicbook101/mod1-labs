@@ -6,10 +6,14 @@
 - [x] EG 01c-Java Basics - Methods
 - [x] EG 01d-Java Basics - Arrays and Loops
 - [x] EG 02-Object Oriented programming
+*Need more practice - Still a bit unfarmiliar with the subject*
 - [x] EG 03a-Static fields and methods
-- [] EG 03b-More on statics
-- [] EG 04-enums and Strings
-- [] EG 05-Collections and Generics
+*Need more practice*
+- [x] EG 03b-More on statics
+- [x] EG 04-enums and Strings
+*Need more practice*
+- [x] EG 05-Collections and Generics
+*Defiently need more practice*
 - [] EG 06-Exceptions
 - [] EG 07-Inheritance
 - [] EG 08-Polymorphism
